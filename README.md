@@ -1,3 +1,6 @@
+# certificate
+![](/certificate.jpg)
+
 # Claude with Anthropic API
 
 这是一个使用 Anthropic API 与 Claude AI 进行交互的 Jupyter Notebook 项目。
